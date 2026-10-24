@@ -1,5 +1,9 @@
 # Image-Handling-and-Pixel-Tranformation-Using-OpenCV-Assignment
 
+# EXP.no:01- Image Handling and Pixel Transformations
+# Name: Sridharan B
+# Reg.No: 212225230272
+
 
 ## AIM
 
@@ -77,3 +81,5 @@ pip install opencv-contrib-python-headless matplotlib
 ---
 
 ## PROGRAM
+# Step1: Load an image from your local directory and display it.
+
